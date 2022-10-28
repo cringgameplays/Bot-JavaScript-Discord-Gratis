@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "@discordjs/voice": "^0.13.0",
+    "canvas": "^2.10.1",
+    "cartoon-avatar": "^1.0.2",
+    "dbd": "^0.0.2",
+    "discord-arts": "^0.0.8",
+    "discord.js": "^14.5.0",
+    "fs": "^0.0.1-security",
+    "moment": "^2.29.4",
+    "ms": "^2.1.3",
+    "popcat": "^0.0.0",
+    "quick.db": "^9.0.6"
+  }
+}
