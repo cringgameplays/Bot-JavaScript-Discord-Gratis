@@ -1,4 +1,4 @@
 { 
-  "token"  : "MTAzMjMyNTI0Mjg3MTM2MTY1Nw.G19NNW.XliksWn-QBLeJ15ZHLA1a4scHeX3O8hlPJKhW4",
-  "prefix" : "/"
+  "token"  : "Seu Token", //Token
+  "prefix" : "/" //Seu prefixo
 }
