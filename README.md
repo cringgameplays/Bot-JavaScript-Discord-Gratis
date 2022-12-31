@@ -1,2 +1,2 @@
 # **Bot-JavaScript-Discord-Gratis**
-Baixe a Piblioteca usando npm i discord.js fs ms
+Baixe a Biblioteca usando npm i discord.js fs ms
